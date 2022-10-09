@@ -1,9 +1,5 @@
 ![image](https://user-images.githubusercontent.com/20962472/170542368-1ecaa613-6046-4ca8-bd89-9b47bc414801.png)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
-
-![image](https://user-images.githubusercontent.com/20962472/170536532-216727b0-b52a-4914-af97-302225914fb4.png)
 
 Hello good people.
 
